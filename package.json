@@ -1,7 +1,7 @@
 {
-  "name": "landing",
+  "name": "vanshikav",
   "version": "1.0.0",
-  "description": "trill shit only",
+  "description": "vanshikas site",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
